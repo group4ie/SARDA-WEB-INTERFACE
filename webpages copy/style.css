@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+html,body{
+	margin:0;
+	padding:0
+	}
+body{
+	font: 12px arial,sans-serif;
+	text-align:center;
+	
+	}
+#header{
+    background-image:url(images/header_sml.png);
+	color: black;
+	padding-bottom:20px;
+	padding:50px;
+	line-height: 10px;
+	border:hidden;
+}
+#container{
+	text-align:left;
+	width:700px;
+	margin:0 auto
+	}
+	
+#navigation {
+	text-align:right;
+}
+#navigation li
+{
+	display:inline; 
+	padding-right:30px;
+	
+}
+#sidebar{
+	float:right;
+	width:150px;
+	margin-left:-700px}
+}
+	
+	
+
+
